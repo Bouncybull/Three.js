@@ -1,2 +1,2 @@
 # Three.js
- Repos for my three.js projects
+ Repos for my three.js practice
